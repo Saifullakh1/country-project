@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'passports',
     'countries',
     'companies',
+    'coke',
 
 ]
 
